@@ -1,5 +1,5 @@
 # 3D GAN image synthesis and dataset quality assessment for bacterial biofilm
-Deep learning for analyzing bacterial biofilm images, including 3D GAN image synthesis, dataset quality assessment with SSQA, and a 3D u-net practice for cell segmentation.
+Deep learning for analyzing bacterial biofilm images, including 3D GAN image synthesis, dataset quality assessment with SSQA, and a downstream cell segmentation test using 3D u-net.
 
 Paper:
 J. Wang, N. Tabassum, T.T. Toma, Y. Wang, A. Gahlmann, and S.T. Acton,
